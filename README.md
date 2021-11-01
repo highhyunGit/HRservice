@@ -8,4 +8,4 @@
 · 사용자가 자주 사용하는 조건들은 Accordion에 미리 저장
 <h2>GIF</h2>
 <img src="https://user-images.githubusercontent.com/89969398/139623448-125da45f-4218-465c-943f-cb855395ad17.gif">
-<img src="https://user-images.githubusercontent.com/89969398/139623730-d29eb176-4af8-4adc-a870-aa1da2151120.gif">
+<img src="https://user-images.githubusercontent.com/89969398/139624039-2f582577-d2f1-4f0d-a7f6-80792919e889.gif">
